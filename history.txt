@@ -7,3 +7,5 @@ Vive en Colombia, pero nacio en Venezuela
 Rony quiere ser un gran front end Developer
 
 Rony estudia en platzi para alcanzar su sueño
+
+Esta linea es de repaso
