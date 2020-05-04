@@ -28,3 +28,10 @@
 .header-title {
     text-align: center;
 }
+
+.footer{
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding: 0.4em;
+}
