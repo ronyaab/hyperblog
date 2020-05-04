@@ -17,8 +17,8 @@
 }
 
 .header{
-    background-color: navy;
-    color: black;
+    background-color: rgb(94, 94, 243);
+    color: white;
     height: 80px;
     /*display: flex;*/
     padding: 1px;
